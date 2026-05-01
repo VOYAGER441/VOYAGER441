@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/mainakbanduri" target="blank"><img src="https://img.shields.io/twitter/follow/mainakbanduri?logo=twitter&style=for-the-badge" alt="mainakbanduri" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working at Weinkl Technologies LLP<br>👯 I’m looking to collaborate on Full Stack Development projects<br>🤝 I’m looking for help with exploring new technologies and best practices in software development<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about TypeScript, Next.js, and building responsive web applications<br>⚡ Fun fact I enjoy finding creative solutions to coding challenges and love experimenting with new tech!
+🔭 I’m currently working at sky fusion technologies pvt ltd<br>👯 I’m looking to collaborate on Full Stack Development projects<br>🤝 I’m looking for help with exploring new technologies and best practices in software development<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about TypeScript, Next.js, and building responsive web applications<br>⚡ Fun fact I enjoy finding creative solutions to coding challenges and love experimenting with new tech!
 
 
 ## 🌐 Socials:
